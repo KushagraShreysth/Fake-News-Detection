@@ -1,7 +1,7 @@
 # Fake-News-Detection
 __________________________________
 
- Detected fake news with Python using PassiveAggressiveClassifier 
+ Detects fake news with Python using PassiveAggressiveClassifier 
 __________________________________
 
 ## REQUIREMENTS
